@@ -91,6 +91,7 @@ body
 
 .Container .step
 {
+    text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
     width: 1000px;
@@ -122,6 +123,7 @@ body
 
 .Container .answer
 {
+    text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
