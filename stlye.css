@@ -111,6 +111,7 @@ body
 
 .Container .Question
 {
+    text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 20px;
@@ -132,5 +133,8 @@ body
 
 #Q1:checked + .answer 
 {
-  color: rgb(0, 0, 0);
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 104, 26);;
+    color: rgb(0, 104, 26);
 }
